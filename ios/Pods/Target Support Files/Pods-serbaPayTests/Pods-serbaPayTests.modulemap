@@ -1,0 +1,6 @@
+framework module Pods_serbaPayTests {
+  umbrella header "Pods-serbaPayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

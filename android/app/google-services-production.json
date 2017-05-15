@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "243080078869",
+    "firebase_url": "https://serbapay-961a9.firebaseio.com",
+    "project_id": "serbapay-961a9",
+    "storage_bucket": "serbapay-961a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243080078869:android:6ca4d705b960ef34",
+        "android_client_info": {
+          "package_name": "com.serbapay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243080078869-pnend618u4hb77sjumq0m3o6ioks306b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QHHgClB83KcZC3HE_ARc_cXXnkNUqL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
